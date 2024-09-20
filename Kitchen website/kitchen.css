@@ -1,0 +1,21 @@
+button{
+    color: rgb(83, 185, 83);
+    border-radius: 70px;
+}
+
+input{
+    width: 450px;
+    height: 50px;
+    border-radius: 50px;
+    border-style: none;
+}
+.col-lg-3{
+    color: green;
+    text-align: center;
+}
+.col-lg-3 a{
+    background-color: lightgreen;
+    border-radius: 50px;
+    height: 40px;
+    width: 250px;
+}
